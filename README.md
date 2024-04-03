@@ -6,7 +6,7 @@
       *Keeping up-to-date with the latest advancements in machine learning and data science.*
   
 - 🌱 I’m currently learning 
-      *Advanced techniques in machine learning, such as deep learning and natural language processing.*
+      *Advanced techniques in machine learning, such as deep learning.*
       *How to effectively deploy machine learning models in production environments.*
       *Enhancing my skills in data visualization and storytelling to communicate insights effectively.*
   
