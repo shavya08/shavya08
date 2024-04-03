@@ -16,7 +16,7 @@
       *Open-source projects aimed at democratizing access to data science tools and knowledge.*
       *Cross-disciplinary projects that combine expertise in data science with other fields such as healthcare, finance, pharmaceutical.*
   
-- 📫 How to reach me ashavya@gmail.com
+- 📫 How to reach me ashavya@gmail.com | Linkedln - www.linkedin.com/in/shalvi-agrawal0803 
 
 - ⚡ Fun fact: The average person spends about 6 months of their life waiting for red lights to turn green!
 
