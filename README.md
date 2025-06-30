@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shalvi Agrawal AKA Shavya08. I am currenly a student at Warwick Business School. I am a Master's student learning *Business Analytics*
+- 👋 Hi, I’m Shalvi Agrawal AKA Shavya08. I have finishde my Master's student learning *Business Analytics* from Warwick Business School.
   
 - 👀 I’m interested in 
       *Exploring innovative ways to solve real-world problems using data-driven approaches.*
